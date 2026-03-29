@@ -64,3 +64,7 @@ Here is a basic example of how to use the application:
 3. Select the desired Ethereum network or Solana.
 4. Click "Generate Wallet" to create a new wallet.
 5. The wallet's address, private key, and balance will be displayed.
+
+```
+0xCf0CBfF73C4e6aCC75CB0B752822e4b1c4e076f1
+```
