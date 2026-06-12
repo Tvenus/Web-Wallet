@@ -66,5 +66,5 @@ Here is a basic example of how to use the application:
 5. The wallet's address, private key, and balance will be displayed.
 
 ```
-0xCf0CBfF73C4e6aCC75CB0B752822e4b1c4e076f1
+0x1Af77eC2985353B4eD994Cc3B7cE4eF0a9A65bb5
 ```
